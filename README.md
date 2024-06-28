@@ -89,7 +89,7 @@ Appidx 3 [General View for Project](https://github.com/doubleZ0108/Software-Proj
 
 | Name                            | Email                 |
 | ------------------------------- | --------------------- |
-| Zhe ZHANG<sup>Team Leader</sup> | dbzdbz@tongji.edu.cn  |
+| Samadrita Ghosh<sup>Team Leader</sup> | ec21156@qmul.ac.uk  |
 | Kaixin CHEN                     | 1753188@tongji.edu.cn |
 | Di BU                           | 1753414@tongji.edu.cn |
 
